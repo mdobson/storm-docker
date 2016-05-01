@@ -1,4 +1,4 @@
-FROM wurstmeister/base
+FROM mdobs/base
 
 MAINTAINER Wurstmeister 
 
